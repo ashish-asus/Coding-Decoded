@@ -8,18 +8,18 @@ These questions are intended for those who are preparing for Google.
 | 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | PENDING | 	Array 
 | 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | PENDING | 	Array
 | 4 |	Snapshot Array	| [Link](	https://leetcode.com/problems/snapshot-array	) | PENDING | 	Array
-| 5 |	Maximum Sum of Two Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays	) | PENDING | 	Array
-| 6 |	My Calendar I	| [Link](	https://leetcode.com/problems/my-calendar-i	) | PENDING | 	Array
+| 5 |``Maximum Sum of Two Non-Overlapping Subarrays``	| [Link](	https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays	) | PENDING | 	Array
+| 6 |``	My Calendar I``	| [Link](	https://leetcode.com/problems/my-calendar-i	) | PENDING | 	Array
 | 7 |	Number of Matching Subsequences	| [Link](	https://leetcode.com/problems/number-of-matching-subsequences	) | PENDING | 	Array
 | 8 |	Next Permutation	| [Link](	https://leetcode.com/problems/next-permutation	) | PENDING | 	Array
-| 9 |	Add to Array-Form of Integer	| [Link](	https://leetcode.com/problems/add-to-array-form-of-integer	) | PENDING | 	Array
+| 9 |	``Add to Array-Form of Integer``	| [Link](	https://leetcode.com/problems/add-to-array-form-of-integer	) | PENDING | 	Array
 | 10 |	Positions of Large Groups	| [Link](	https://leetcode.com/problems/positions-of-large-groups	) | PENDING | 	Array
-| 11 |	Plus One	| [Link](	https://leetcode.com/problems/plus-one	) | PENDING | 	Array
+| 11 |``	Plus One	``| [Link](	https://leetcode.com/problems/plus-one	) | PENDING | 	Array
 | 12 |	Shortest Word Distance	| [Link](	https://leetcode.com/problems/shortest-word-distance	) | PENDING | 	Array
 | 13 |	First Missing Positive	| [Link](	https://leetcode.com/problems/first-missing-positive	) | PENDING | 	Array
 | 14 |	Majority Element II	| [Link](	https://leetcode.com/problems/majority-element-ii	) | PENDING | 	Array
 | 15 |	Valid Mountain Array	| [Link](	https://leetcode.com/problems/valid-mountain-array	) | PENDING | 	Array
-| 16 |	Pascal's Triangle	| [Link](	https://leetcode.com/problems/pascals-triangle	) | PENDING | 	Array
+| 16 |	``Pascal's Triangle	``| [Link](	https://leetcode.com/problems/pascals-triangle	) | PENDING | 	Array
 | 17 |	Max Consecutive Ones	| [Link](	https://leetcode.com/problems/max-consecutive-ones	) | PENDING | 	Array
 | 18 |	Product of Array Except Self	| [Link](	https://leetcode.com/problems/product-of-array-except-self	) | PENDING | 	Array
 | 19 |	Shuffle an Array	| [Link](	https://leetcode.com/problems/shuffle-an-array	) | PENDING | 	Array
