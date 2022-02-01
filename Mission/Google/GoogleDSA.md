@@ -5,28 +5,28 @@ These questions are intended for those who are preparing for Google.
 | S No  | Question  |  Link | Status | Concept |
 | ------------- | :--------------------: |    :-----------: |  :-----------: |  :-------------: |
 | 1 | ``Magic Squares In Grid``	| [Link](	https://leetcode.com/problems/magic-squares-in-grid	) | PENDING | 	Array 
-| 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | PENDING | 	Array 
+| 2 |	``Longest Line of Consecutive One in Matrix``	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | Rfere lintCode | 	Array 
 | 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | PENDING | 	Array
 | 4 |	Snapshot Array	| [Link](	https://leetcode.com/problems/snapshot-array	) | PENDING | 	Array
 | 5 |``Maximum Sum of Two Non-Overlapping Subarrays``	| [Link](	https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays	) | PENDING | 	Array
 | 6 |``	My Calendar I``	| [Link](	https://leetcode.com/problems/my-calendar-i	) | PENDING | 	Array
-| 7 |	Number of Matching Subsequences	| [Link](	https://leetcode.com/problems/number-of-matching-subsequences	) | PENDING | 	Array
-| 8 |	Next Permutation	| [Link](	https://leetcode.com/problems/next-permutation	) | PENDING | 	Array
+| 7 |``	Number of Matching Subsequences``	| [Link](	https://leetcode.com/problems/number-of-matching-subsequences	) | PENDING | 	Array
+| 8 |	``Next Permutation``	| [Link](	https://leetcode.com/problems/next-permutation	) | PENDING | 	Array
 | 9 |	``Add to Array-Form of Integer``	| [Link](	https://leetcode.com/problems/add-to-array-form-of-integer	) | PENDING | 	Array
-| 10 |	Positions of Large Groups	| [Link](	https://leetcode.com/problems/positions-of-large-groups	) | PENDING | 	Array
+| 10 |	``Positions of Large Groups	``| [Link](	https://leetcode.com/problems/positions-of-large-groups	) | PENDING | 	Array
 | 11 |``	Plus One	``| [Link](	https://leetcode.com/problems/plus-one	) | PENDING | 	Array
 | 12 |	Shortest Word Distance	| [Link](	https://leetcode.com/problems/shortest-word-distance	) | PENDING | 	Array
 | 13 |	First Missing Positive	| [Link](	https://leetcode.com/problems/first-missing-positive	) | PENDING | 	Array
 | 14 |	Majority Element II	| [Link](	https://leetcode.com/problems/majority-element-ii	) | PENDING | 	Array
 | 15 |	Valid Mountain Array	| [Link](	https://leetcode.com/problems/valid-mountain-array	) | PENDING | 	Array
 | 16 |	``Pascal's Triangle	``| [Link](	https://leetcode.com/problems/pascals-triangle	) | PENDING | 	Array
-| 17 |	Max Consecutive Ones	| [Link](	https://leetcode.com/problems/max-consecutive-ones	) | PENDING | 	Array
-| 18 |	Product of Array Except Self	| [Link](	https://leetcode.com/problems/product-of-array-except-self	) | PENDING | 	Array
-| 19 |	Shuffle an Array	| [Link](	https://leetcode.com/problems/shuffle-an-array	) | PENDING | 	Array
+| 17 |	``Max Consecutive Ones``	| [Link](	https://leetcode.com/problems/max-consecutive-ones	) | PENDING | 	Array
+| 18 |	``Product of Array Except Self``	| [Link](	https://leetcode.com/problems/product-of-array-except-self	) | PENDING | 	Array
+| 19 |	``Shuffle an Array``	| [Link](	https://leetcode.com/problems/shuffle-an-array	) | PENDING | 	Array
 | 20 |	Word Search	| [Link](	https://leetcode.com/problems/word-search	) | PENDING | 	ArrayBacktracking
 | 21 |	Combination Sum III	| [Link](	https://leetcode.com/problems/combination-sum-iii	) | PENDING | 	ArrayBacktracking
-| 22 |	Subsets	| [Link](	https://leetcode.com/problems/subsets	) | PENDING | 	ArrayBacktrackingBit Manipulation
-| 23 |	Maximum Side Length of a Square with Sum Less than or Equal to Threshold	| [Link](	https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	) | PENDING | 	Array Binary Search
+| 22 |	``Subsets``	| [Link](	https://leetcode.com/problems/subsets	) | PENDING | 	ArrayBacktrackingBit Manipulation
+| 23 |	``Maximum Side Length of a Square with Sum Less than or Equal to Threshold``	| [Link](	https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	) | PENDING | 	Array Binary Search
 | 24 |	Find First and Last Position of Element in Sorted Array	| [Link](	https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array	) | PENDING | 	Array Binary Search
 | 25 |	Search in Rotated Sorted Array	| [Link](	https://leetcode.com/problems/search-in-rotated-sorted-array	) | PENDING | 	Array Binary Search
 | 26 |	Find Peak Element	| [Link](	https://leetcode.com/problems/find-peak-element	) | PENDING | 	Array Binary Search
@@ -35,18 +35,18 @@ These questions are intended for those who are preparing for Google.
 | 29 |	Max Area of Island	| [Link](	https://leetcode.com/problems/max-area-of-island	) | PENDING | 	ArrayDepth-first Search
 | 30 |	Product of the Last K Numbers	| [Link](	https://leetcode.com/problems/product-of-the-last-k-numbers	) | PENDING | 	ArrayDesign
 | 31 |	Majority Element	| [Link](	https://leetcode.com/problems/majority-element	) | PENDING | 	ArrayDivide and ConquerBit Manipulation
-| 32 |	Maximum Subarray	| [Link](	https://leetcode.com/problems/maximum-subarray	) | PENDING | 	ArrayDivide and ConquerDynamic Programming
+| 32 |	``Maximum Subarray``	| [Link](	https://leetcode.com/problems/maximum-subarray	) | PENDING | 	ArrayDivide and ConquerDynamic Programming
 | 33 |	Count Square Submatrices with All Ones	| [Link](	https://leetcode.com/problems/count-square-submatrices-with-all-ones	) | PENDING | 	ArrayDynamic Programming
 | 34 |	Maximum Product Subarray	| [Link](	https://leetcode.com/problems/maximum-product-subarray	) | PENDING | 	ArrayDynamic Programming
 | 35 |	Maximum Sum of 3 Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays	) | PENDING | 	ArrayDynamic Programming
-| 36 |	Minimum Path Sum	| [Link](	https://leetcode.com/problems/minimum-path-sum	) | PENDING | 	ArrayDynamic Programming
-| 37 |	Best Time to Buy and Sell Stock	| [Link](	https://leetcode.com/problems/best-time-to-buy-and-sell-stock	) | PENDING | 	ArrayDynamic Programming
-| 38 |	Unique Paths	| [Link](	https://leetcode.com/problems/unique-paths	) | PENDING | 	ArrayDynamic Programming
+| 36 |	``Minimum Path Sum``	| [Link](	https://leetcode.com/problems/minimum-path-sum	) | PENDING | 	ArrayDynamic Programming
+| 37 |	``Best Time to Buy and Sell Stock``	| [Link](	https://leetcode.com/problems/best-time-to-buy-and-sell-stock	) | PENDING | 	ArrayDynamic Programming
+| 38 |	``Unique Paths``	| [Link](	https://leetcode.com/problems/unique-paths	) | PENDING | 	ArrayDynamic Programming
 | 39 |	Maximum Points You Can Obtain from Cards	| [Link](	https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards	) | PENDING | 	ArrayDynamic ProgrammingSliding Window
 | 40 |	Number of Submatrices That Sum to Target	| [Link](	https://leetcode.com/problems/number-of-submatrices-that-sum-to-target	) | PENDING | 	ArrayDynamic ProgrammingSliding Window
-| 41 |	Divide Array in Sets of K Consecutive Numbers	| [Link](	https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers	) | PENDING | 	ArrayGreedy
+| 41 |	``Divide Array in Sets of K Consecutive Numbers``	| [Link](	https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers	) | PENDING | 	ArrayGreedy
 | 42 |	Jump Game II	| [Link](	https://leetcode.com/problems/jump-game-ii	) | PENDING | 	ArrayGreedy
-| 43 |	Minimum Domino Rotations For Equal Row	| [Link](	https://leetcode.com/problems/minimum-domino-rotations-for-equal-row	) | PENDING | 	ArrayGreedy
+| 43 |	``Minimum Domino Rotations For Equal Row``	| [Link](	https://leetcode.com/problems/minimum-domino-rotations-for-equal-row	) | PENDING | 	ArrayGreedy
 | 44 |	Task Scheduler	| [Link](	https://leetcode.com/problems/task-scheduler	) | PENDING | 	ArrayGreedyQueue
 | 45 |	Two Sum	| [Link](	https://leetcode.com/problems/two-sum	) | PENDING | 	ArrayHash Table
 | 46 |	Subarray Sum Equals K	| [Link](	https://leetcode.com/problems/subarray-sum-equals-k	) | PENDING | 	ArrayHash Table
@@ -62,7 +62,7 @@ These questions are intended for those who are preparing for Google.
 | 56 |	Largest Rectangle in Histogram	| [Link](	https://leetcode.com/problems/largest-rectangle-in-histogram	) | PENDING | 	Array Stack
 | 57 |	Compare Strings by Frequency of the Smallest Character	| [Link](	https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character	) | PENDING | 	ArrayString
 | 58 |	Construct Binary Tree from Preorder and Inorder Traversal	| [Link](	https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal	) | PENDING | 	Array Tree Depth-first Search
-| 59 |	Candy Crush	| [Link](	https://leetcode.com/problems/candy-crush	) | PENDING | 	ArrayTwo Pointers
+| 59 |	``Candy Crush``	| [Link](	https://leetcode.com/problems/candy-crush	) | Lintcode | 	ArrayTwo Pointers
 | 60 |	3Sum Smaller	| [Link](	https://leetcode.com/problems/3sum-smaller	) | PENDING | 	ArrayTwo Pointers
 | 61 |	3Sum	| [Link](	https://leetcode.com/problems/3sum	) | PENDING | 	ArrayTwo Pointers
 | 62 |	Merge Sorted Array	| [Link](	https://leetcode.com/problems/merge-sorted-array	) | PENDING | 	ArrayTwo Pointers
@@ -70,10 +70,10 @@ These questions are intended for those who are preparing for Google.
 | 64 |	Remove Duplicates from Sorted Array	| [Link](	https://leetcode.com/problems/remove-duplicates-from-sorted-array/	) | PENDING | 	ArrayTwo Pointers
 | 65 |	Minimum Size Subarray Sum	| [Link](	https://leetcode.com/problems/minimum-size-subarray-sum	) | PENDING | 	Array Two Pointers Binary Search
 | 66 |	Longest Consecutive Sequence	| [Link](	https://leetcode.com/problems/longest-consecutive-sequence	) | PENDING | 	Array Union Find
-| 67 |	Brace Expansion	| [Link](	https://leetcode.com/problems/brace-expansion	) | PENDING | 	Backtracking
+| 67 |	``Brace Expansion``	| [Link](	https://leetcode.com/problems/brace-expansion	) | PENDING | 	Backtracking
 | 68 |	Palindrome Partitioning	| [Link](	https://leetcode.com/problems/palindrome-partitioning	) | PENDING | 	Backtracking
-| 69 |	Combinations	| [Link](	https://leetcode.com/problems/combinations	) | PENDING | 	Backtracking
-| 70 |	Permutations	| [Link](	https://leetcode.com/problems/permutations	) | PENDING | 	Backtracking
+| 69 |	``Combinations``	| [Link](	https://leetcode.com/problems/combinations	) | PENDING | 	Backtracking
+| 70 |	``Permutations``	| [Link](	https://leetcode.com/problems/permutations	) | PENDING | 	Backtracking
 | 71 |	Unique Paths III	| [Link](	https://leetcode.com/problems/unique-paths-iii	) | PENDING | 	BacktrackingDepth-first Search
 | 72 |	Design Add and Search Words Data Structure	| [Link](	https://leetcode.com/problems/design-add-and-search-words-data-structure	) | PENDING | 	BacktrackingDesignTrie
 | 73 |	Word Search II	| [Link](	https://leetcode.com/problems/word-search-ii	) | PENDING | 	BacktrackingTrie
