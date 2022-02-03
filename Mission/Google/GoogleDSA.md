@@ -55,11 +55,11 @@ These questions are intended for those who are preparing for Google.
 | 49 |	Maximal Rectangle	| [Link](	https://leetcode.com/problems/maximal-rectangle	) | PENDING | 	ArrayHash TableDynamic ProgrammingStack
 | 50 |	X of a Kind in a Deck of Cards	| [Link](	https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards	) | PENDING | 	ArrayMath
 | 51 |	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	| [Link](	https://leetcode.com/problems/student-attendance-record-ii	) | PENDING | 	Array Sliding Window
-| 52 |	Max Value of Equation	| [Link](	https://leetcode.com/problems/max-value-of-equation	) | PENDING | 	Array Sliding Window
-| 53 |	Insert Interval	| [Link](	https://leetcode.com/problems/insert-interval	) | PENDING | 	Array Sort
-| 54 |	Merge Intervals	| [Link](	https://leetcode.com/problems/merge-intervals	) | PENDING | 	Array Sort
-| 55 |	Sum of Subarray Minimums	| [Link](	https://leetcode.com/problems/sum-of-subarray-minimums	) | PENDING | 	Array Stack
-| 56 |	Largest Rectangle in Histogram	| [Link](	https://leetcode.com/problems/largest-rectangle-in-histogram	) | PENDING | 	Array Stack
+| 52 |	``Max Value of Equation``	| [Link](	https://leetcode.com/problems/max-value-of-equation	) | PENDING | 	Array Sliding Window
+| 53 |	``Insert Interval``	| [Link](	https://leetcode.com/problems/insert-interval	) | PENDING | 	Array Sort
+| 54 |	``Merge Intervals``	| [Link](	https://leetcode.com/problems/merge-intervals	) | PENDING | 	Array Sort
+| 55 |	``Sum of Subarray Minimums``	| [Link](	https://leetcode.com/problems/sum-of-subarray-minimums	) | PENDING | 	Array Stack
+| 56 |	``Largest Rectangle in Histogram``	| [Link](	https://leetcode.com/problems/largest-rectangle-in-histogram	) | PENDING | 	Array Stack
 | 57 |	Compare Strings by Frequency of the Smallest Character	| [Link](	https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character	) | PENDING | 	ArrayString
 | 58 |	Construct Binary Tree from Preorder and Inorder Traversal	| [Link](	https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal	) | PENDING | 	Array Tree Depth-first Search
 | 59 |	``Candy Crush``	| [Link](	https://leetcode.com/problems/candy-crush	) | Lintcode | 	ArrayTwo Pointers
@@ -85,25 +85,25 @@ These questions are intended for those who are preparing for Google.
 | 79 |	First Bad Version	| [Link](	https://leetcode.com/problems/first-bad-version	) | PENDING | 	Binary Search
 | 80 |	Search a 2D Matrix II	| [Link](	https://leetcode.com/problems/search-a-2d-matrix-ii	) | PENDING | 	Binary SearchDivide and Conquer
 | 81 |	Count of Smaller Numbers After Self	| [Link](	https://leetcode.com/problems/count-of-smaller-numbers-after-self	) | PENDING | 	Binary SearchDivide and ConquerSortBinary Indexed Tree Segment Tree
-| 82 |	Dungeon Game	| [Link](	https://leetcode.com/problems/dungeon-game	) | PENDING | 	Binary Search Dynamic Programming
-| 83 |	Split Array Largest Sum	| [Link](	https://leetcode.com/problems/split-array-largest-sum	) | PENDING | 	Binary Search Dynamic Programming
-| 84 |	Longest Increasing Subsequence	| [Link](	https://leetcode.com/problems/longest-increasing-subsequence	) | PENDING | 	Binary Search Dynamic Programming
-| 85 |	Is Subsequence	| [Link](	https://leetcode.com/problems/is-subsequence	) | PENDING | 	Binary Search Dynamic ProgrammingGreedy
+| 82 |	``Dungeon Game``	| [Link](	https://leetcode.com/problems/dungeon-game	) | PENDING | 	Binary Search Dynamic Programming
+| 83 |	``Split Array Largest Sum``	| [Link](	https://leetcode.com/problems/split-array-largest-sum	) | PENDING | 	Binary Search Dynamic Programming
+| 84 |	``Longest Increasing Subsequence``	| [Link](	https://leetcode.com/problems/longest-increasing-subsequence	) | PENDING | 	Binary Search Dynamic Programming
+| 85 |	``Is Subsequence``	| [Link](	https://leetcode.com/problems/is-subsequence	) | PENDING | 	Binary Search Dynamic ProgrammingGreedy
 | 86 |	Maximum Profit in Job Scheduling	| [Link](	https://leetcode.com/problems/maximum-profit-in-job-scheduling	) | PENDING | 	Binary Search Dynamic ProgrammingSort
 | 87 |	Divide Chocolate	| [Link](	https://leetcode.com/problems/divide-chocolate	) | PENDING | 	Binary SearchGreedy
-| 88 |	Kth Smallest Element in a Sorted Matrix	| [Link](	https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix	) | PENDING | 	Binary SearchHeap
+| 88 |	``Kth Smallest Element in a Sorted Matrix``	| [Link](	https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix	) | PENDING | 	Binary SearchHeap
 | 89 |	Shortest Subarray with Sum at Least K	| [Link](	https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k	) | PENDING | 	Binary SearchQueue
 | 90 |	Random Pick with Weight	| [Link](	https://leetcode.com/problems/random-pick-with-weight	) | PENDING | 	Binary SearchRandom
 | 91 |	Count Complete Tree Nodes	| [Link](	https://leetcode.com/problems/count-complete-tree-nodes	) | PENDING | 	Binary SearchTree
-| 92 |	Kth Smallest Element in a BST	| [Link](	https://leetcode.com/problems/kth-smallest-element-in-a-bst	) | PENDING | 	Binary SearchTree
+| 92 |	``Kth Smallest Element in a BST``	| [Link](	https://leetcode.com/problems/kth-smallest-element-in-a-bst	) | PENDING | 	Binary SearchTree
 | 93 |	Maximum Score Words Formed by Letters	| [Link](	https://leetcode.com/problems/maximum-score-words-formed-by-letters	) | PENDING | 	Bit Manipulation
 | 94 |	UTF-8 Validation	| [Link](	https://leetcode.com/problems/utf-8-validation	) | PENDING | 	Bit Manipulation
-| 95 |	Single Number II	| [Link](	https://leetcode.com/problems/single-number-ii	) | PENDING | 	Bit Manipulation
+| 95 |	``Single Number II``	| [Link](	https://leetcode.com/problems/single-number-ii	) | PENDING | 	Bit Manipulation
 | 96 |	Swap Adjacent in LR String	| [Link](	https://leetcode.com/problems/swap-adjacent-in-lr-string	) | PENDING | 	Brainteaser
 | 97 |	Shortest Path in a Grid with Obstacles Elimination	| [Link](	https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination	) | PENDING | 	Breadth-first Search
 | 98 |	Minimum Cost to Make at Least One Valid Path in a Grid	| [Link](	https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid	) | PENDING | 	Breadth-first Search
 | 99 |	Jump Game IV	| [Link](	https://leetcode.com/problems/jump-game-iv	) | PENDING | 	Breadth-first Search
-| 100 |	Open the Lock	| [Link](	https://leetcode.com/problems/open-the-lock	) | PENDING | 	Breadth-first Search
+| 100 |	``Open the Lock``	| [Link](	https://leetcode.com/problems/open-the-lock	) | PENDING | 	Breadth-first Search
 | 101 |	Word Ladder	| [Link](	https://leetcode.com/problems/word-ladder	) | PENDING | 	Breadth-first Search
 | 102 |	Minimum Knight Moves	| [Link](	https://leetcode.com/problems/minimum-knight-moves	) | PENDING | 	Breadth-first Search
 | 103 |	Bus Routes	| [Link](	https://leetcode.com/problems/bus-routes	) | PENDING | 	Breadth-first Search
@@ -112,9 +112,9 @@ These questions are intended for those who are preparing for Google.
 | 106 |	As Far from Land as Possible	| [Link](	https://leetcode.com/problems/as-far-from-land-as-possible	) | PENDING | 	Breadth-first SearchGraph
 | 107 |	Nth Highest Salary	| [Link](	https://leetcode.com/problems/nth-highest-salary	) | PENDING | 	Database
 | 108 |	Combine Two Tables	| [Link](	https://leetcode.com/problems/combine-two-tables	) | PENDING | 	Database
-| 109 |	Time Needed to Inform All Employees	| [Link](	https://leetcode.com/problems/time-needed-to-inform-all-employees	) | PENDING | 	Depth-first Search
+| 109 |	``Time Needed to Inform All Employees``	| [Link](	https://leetcode.com/problems/time-needed-to-inform-all-employees	) | PENDING | 	Depth-first Search
 | 110 |	Robot Room Cleaner	| [Link](	https://leetcode.com/problems/robot-room-cleaner	) | PENDING | 	Depth-first Search
-| 111 |	24 Game	| [Link](	https://leetcode.com/problems/24-game	) | PENDING | 	Depth-first Search
+| 111 |	``24 Game``	| [Link](	https://leetcode.com/problems/24-game	) | PENDING | 	Depth-first Search
 | 112 |	Frog Position After T Seconds	| [Link](	https://leetcode.com/problems/frog-position-after-t-seconds	) | PENDING | 	Depth-first Search
 | 113 |	Number of Closed Islands	| [Link](	https://leetcode.com/problems/number-of-closed-islands	) | PENDING | 	Depth-first Search
 | 114 |	Flood Fill	| [Link](	https://leetcode.com/problems/flood-fill	) | PENDING | 	Depth-first Search
