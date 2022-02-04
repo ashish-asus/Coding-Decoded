@@ -28,13 +28,13 @@ These questions are intended for those who are preparing for Google.
 | 22 |	``Subsets``	| [Link](	https://leetcode.com/problems/subsets	) | PENDING | 	ArrayBacktrackingBit Manipulation
 | 23 |	``Maximum Side Length of a Square with Sum Less than or Equal to Threshold``	| [Link](	https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold	) | PENDING | 	Array Binary Search
 | 24 |	Find First and Last Position of Element in Sorted Array	| [Link](	https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array	) | PENDING | 	Array Binary Search
-| 25 |	Search in Rotated Sorted Array	| [Link](	https://leetcode.com/problems/search-in-rotated-sorted-array	) | PENDING | 	Array Binary Search
-| 26 |	Find Peak Element	| [Link](	https://leetcode.com/problems/find-peak-element	) | PENDING | 	Array Binary Search
-| 27 |	Find Minimum in Rotated Sorted Array	| [Link](	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array	) | PENDING | 	Array Binary Search
+| 25 |	``Search in Rotated Sorted Array``	| [Link](	https://leetcode.com/problems/search-in-rotated-sorted-array	) | PENDING | 	Array Binary Search
+| 26 |	``Find Peak Element``	| [Link](	https://leetcode.com/problems/find-peak-element	) | PENDING | 	Array Binary Search
+| 27 |	``Find Minimum in Rotated Sorted Array``	| [Link](	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array	) | PENDING | 	Array Binary Search
 | 28 |	Median of Two Sorted Arrays	| [Link](	https://leetcode.com/problems/median-of-two-sorted-arrays	) | PENDING | 	ArrayBinary SearchDivide and Conquer
 | 29 |	Max Area of Island	| [Link](	https://leetcode.com/problems/max-area-of-island	) | PENDING | 	ArrayDepth-first Search
 | 30 |	Product of the Last K Numbers	| [Link](	https://leetcode.com/problems/product-of-the-last-k-numbers	) | PENDING | 	ArrayDesign
-| 31 |	Majority Element	| [Link](	https://leetcode.com/problems/majority-element	) | PENDING | 	ArrayDivide and ConquerBit Manipulation
+| 31 |	``Majority Element``	| [Link](	https://leetcode.com/problems/majority-element	) | PENDING | 	ArrayDivide and ConquerBit Manipulation
 | 32 |	``Maximum Subarray``	| [Link](	https://leetcode.com/problems/maximum-subarray	) | PENDING | 	ArrayDivide and ConquerDynamic Programming
 | 33 |	Count Square Submatrices with All Ones	| [Link](	https://leetcode.com/problems/count-square-submatrices-with-all-ones	) | PENDING | 	ArrayDynamic Programming
 | 34 |	Maximum Product Subarray	| [Link](	https://leetcode.com/problems/maximum-product-subarray	) | PENDING | 	ArrayDynamic Programming
@@ -42,17 +42,17 @@ These questions are intended for those who are preparing for Google.
 | 36 |	``Minimum Path Sum``	| [Link](	https://leetcode.com/problems/minimum-path-sum	) | PENDING | 	ArrayDynamic Programming
 | 37 |	``Best Time to Buy and Sell Stock``	| [Link](	https://leetcode.com/problems/best-time-to-buy-and-sell-stock	) | PENDING | 	ArrayDynamic Programming
 | 38 |	``Unique Paths``	| [Link](	https://leetcode.com/problems/unique-paths	) | PENDING | 	ArrayDynamic Programming
-| 39 |	Maximum Points You Can Obtain from Cards	| [Link](	https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards	) | PENDING | 	ArrayDynamic ProgrammingSliding Window
+| 39 |	``Maximum Points You Can Obtain from Cards``	| [Link](	https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards	) | PENDING | 	ArrayDynamic ProgrammingSliding Window
 | 40 |	Number of Submatrices That Sum to Target	| [Link](	https://leetcode.com/problems/number-of-submatrices-that-sum-to-target	) | PENDING | 	ArrayDynamic ProgrammingSliding Window
 | 41 |	``Divide Array in Sets of K Consecutive Numbers``	| [Link](	https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers	) | PENDING | 	ArrayGreedy
 | 42 |	Jump Game II	| [Link](	https://leetcode.com/problems/jump-game-ii	) | PENDING | 	ArrayGreedy
 | 43 |	``Minimum Domino Rotations For Equal Row``	| [Link](	https://leetcode.com/problems/minimum-domino-rotations-for-equal-row	) | PENDING | 	ArrayGreedy
 | 44 |	Task Scheduler	| [Link](	https://leetcode.com/problems/task-scheduler	) | PENDING | 	ArrayGreedyQueue
-| 45 |	Two Sum	| [Link](	https://leetcode.com/problems/two-sum	) | PENDING | 	ArrayHash Table
+| 45 |	``Two Sum``	| [Link](	https://leetcode.com/problems/two-sum	) | PENDING | 	ArrayHash Table
 | 46 |	Subarray Sum Equals K	| [Link](	https://leetcode.com/problems/subarray-sum-equals-k	) | PENDING | 	ArrayHash Table
 | 47 |	Contains Duplicate II	| [Link](	https://leetcode.com/problems/contains-duplicate-ii	) | PENDING | 	ArrayHash Table
 | 48 |	Insert Delete GetRandom O(1)	| [Link](	https://leetcode.com/problems/insert-delete-getrandom-o1	) | PENDING | 	ArrayHash TableDesign
-| 49 |	Maximal Rectangle	| [Link](	https://leetcode.com/problems/maximal-rectangle	) | PENDING | 	ArrayHash TableDynamic ProgrammingStack
+| 49 |	``Maximal Rectangle	``| [Link](	https://leetcode.com/problems/maximal-rectangle	) | PENDING | 	ArrayHash TableDynamic ProgrammingStack
 | 50 |	X of a Kind in a Deck of Cards	| [Link](	https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards	) | PENDING | 	ArrayMath
 | 51 |	Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit	| [Link](	https://leetcode.com/problems/student-attendance-record-ii	) | PENDING | 	Array Sliding Window
 | 52 |	``Max Value of Equation``	| [Link](	https://leetcode.com/problems/max-value-of-equation	) | PENDING | 	Array Sliding Window
@@ -65,10 +65,10 @@ These questions are intended for those who are preparing for Google.
 | 59 |	``Candy Crush``	| [Link](	https://leetcode.com/problems/candy-crush	) | Lintcode | 	ArrayTwo Pointers
 | 60 |	3Sum Smaller	| [Link](	https://leetcode.com/problems/3sum-smaller	) | PENDING | 	ArrayTwo Pointers
 | 61 |	3Sum	| [Link](	https://leetcode.com/problems/3sum	) | PENDING | 	ArrayTwo Pointers
-| 62 |	Merge Sorted Array	| [Link](	https://leetcode.com/problems/merge-sorted-array	) | PENDING | 	ArrayTwo Pointers
+| 62 |	``Merge Sorted Array	``| [Link](	https://leetcode.com/problems/merge-sorted-array	) | PENDING | 	ArrayTwo Pointers
 | 63 |	Move Zeroes	| [Link](	https://leetcode.com/problems/move-zeroes	) | PENDING | 	ArrayTwo Pointers
 | 64 |	Remove Duplicates from Sorted Array	| [Link](	https://leetcode.com/problems/remove-duplicates-from-sorted-array/	) | PENDING | 	ArrayTwo Pointers
-| 65 |	Minimum Size Subarray Sum	| [Link](	https://leetcode.com/problems/minimum-size-subarray-sum	) | PENDING | 	Array Two Pointers Binary Search
+| 65 |	``Minimum Size Subarray Sum``	| [Link](	https://leetcode.com/problems/minimum-size-subarray-sum	) | PENDING | 	Array Two Pointers Binary Search
 | 66 |	Longest Consecutive Sequence	| [Link](	https://leetcode.com/problems/longest-consecutive-sequence	) | PENDING | 	Array Union Find
 | 67 |	``Brace Expansion``	| [Link](	https://leetcode.com/problems/brace-expansion	) | PENDING | 	Backtracking
 | 68 |	Palindrome Partitioning	| [Link](	https://leetcode.com/problems/palindrome-partitioning	) | PENDING | 	Backtracking
@@ -80,8 +80,8 @@ These questions are intended for those who are preparing for Google.
 | 74 |	Range Sum Query 2D - Mutable	| [Link](	https://leetcode.com/problems/range-sum-query-2d-mutable	) | PENDING | 	Binary Indexed Tree Segment Tree
 | 75 |	Range Sum Query - Mutable	| [Link](	https://leetcode.com/problems/range-sum-query-mutable	) | PENDING | 	Binary Indexed Tree Segment Tree
 | 76 |	Missing Element in Sorted Array	| [Link](	https://leetcode.com/problems/missing-element-in-sorted-array	) | PENDING | 	Binary Search
-| 77 |	Online Election	| [Link](	https://leetcode.com/problems/online-election	) | PENDING | 	Binary Search
-| 78 |	Find in Mountain Array	| [Link](	https://leetcode.com/problems/find-in-mountain-array	) | PENDING | 	Binary Search
+| 77 |	``Online Election``	| [Link](	https://leetcode.com/problems/online-election	) | PENDING | 	Binary Search
+| 78 |	``Find in Mountain Array``	| [Link](	https://leetcode.com/problems/find-in-mountain-array	) | PENDING | 	Binary Search
 | 79 |	First Bad Version	| [Link](	https://leetcode.com/problems/first-bad-version	) | PENDING | 	Binary Search
 | 80 |	Search a 2D Matrix II	| [Link](	https://leetcode.com/problems/search-a-2d-matrix-ii	) | PENDING | 	Binary SearchDivide and Conquer
 | 81 |	Count of Smaller Numbers After Self	| [Link](	https://leetcode.com/problems/count-of-smaller-numbers-after-self	) | PENDING | 	Binary SearchDivide and ConquerSortBinary Indexed Tree Segment Tree
